@@ -1,0 +1,52 @@
+/*
+Theme Name: Nature - Responsive One Page Template
+Description: Nature - Responsive One Page Template
+Version: 1.0
+Author: Metrothemes
+Author URI: http://themeforest.net/user/metrothemes/profile?ref=metrothemes
+*/
+
+
+/* Global Styles
+-------------------------------------------------- */
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /*
+body10 {
+margin: 0;
+display: flex; 
+justify: flex-end;
+font-family: cursive;
+
+}
+	
+video {
+    position: fixed; 
+	min-width: 100%;
+	min-height: 100%;
+	top: 50%;
+	left: 50%; 
+	transform: translateX(-50%) translateY(-50%);
+	z-index: -10;
+}	
+
+main10 {
+    width: 40%
+   background: rbga(0,0,0,0.5);
+   color: #fff;	
+   padding: 20px;
+   margin 5%;		
+
+}
+
